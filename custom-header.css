@@ -1,0 +1,18 @@
+.banner{
+  display:  block;
+
+}
+
+.banner > img{
+  width: 100%;
+}
+
+header{
+  position: absolute;
+  width: 100%;
+}
+
+header > nav {
+  background: none !important;
+
+}

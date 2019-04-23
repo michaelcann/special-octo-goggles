@@ -1,0 +1,14 @@
+div.circletag {
+  width: 100px;
+  height: 100px;
+  background: #E6E7ED;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  border-radius: 50%;
+
+}
+div.circletag>img {
+ max-height: 100%;
+ max-width: 100%;
+}
